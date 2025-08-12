@@ -30,7 +30,7 @@ An AI-powered **content-based image recommender system** that suggests similar f
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/FashionLens.git
+git clone https://github.com/VRAJ2202/FashionLens.git
 cd FashionLens
 ```
 
