@@ -65,21 +65,9 @@ python test.py
 
 ---
 
-## 📷 Screenshot
-![Working Demo](assets/working_screenshot.png)
-
-> The above screenshot shows the interface where you can upload an image and receive visually similar fashion item recommendations.
-
----
-
 ## 🛠 Tech Stack
 - **Python 3.8+**
 - **TensorFlow / Keras**
 - **Streamlit**
 - **scikit-learn**
 - **NumPy / PIL / OpenCV**
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
